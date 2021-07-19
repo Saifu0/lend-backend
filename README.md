@@ -39,3 +39,26 @@ python manage.py runserver
 ```
 source .env
 ```
+
+- Clone the repository
+```
+git clone git@github.com:Saifu0/lend-backend.git
+```
+
+- Pull the latest changes from `main` branch
+```
+git pull origin main
+```
+
+- Create a branch
+```
+git branch <BRANCH_NAME>
+```
+
+- Switch to the branch
+```
+git checkout <BRANCH_NAME>
+```
+
+- After doing changes and after comming, pull the latest changes once again and resolve merge conflict if these is any.
+- Then push you branch and ask for review.
