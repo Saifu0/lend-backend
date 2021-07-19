@@ -1,6 +1,6 @@
 # LenD 
 LenD will help you to lend money with lowest interest rate.
-This is repo contains the backend of the application.
+This repo contain the backend of the application.
 
 ## Installation
 1. Create a virtual environment
