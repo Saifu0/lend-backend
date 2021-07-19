@@ -60,5 +60,5 @@ git branch <BRANCH_NAME>
 git checkout <BRANCH_NAME>
 ```
 
-- After doing changes and after comming, pull the latest changes once again and resolve merge conflict if these is any.
+- After doing changes and after committing, pull the latest changes once again and resolve merge conflict if these is any.
 - Then push you branch and ask for review.
